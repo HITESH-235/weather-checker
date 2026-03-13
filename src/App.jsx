@@ -35,7 +35,7 @@ function App() {
             // const API_KEY = "1c2a762d2bc26b261524bb2dc09ad90c";
             const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;;
             const res = await fetch(
-                `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=${currUnit}&appid=${API_KEY}`
+                `https://api.openweathermap.org/data/2.5/weather?q=${cityName.trim()}&units=${currUnit}&appid=${API_KEY}`
             )
     
             if (!res.ok) {
