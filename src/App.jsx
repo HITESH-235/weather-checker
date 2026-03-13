@@ -75,7 +75,7 @@ function App() {
                 </div>
 
                 <div className="nav-links">
-                    <a href="https://github.com/HITESH-235">Home</a>
+                    <a href="https://hitesh-235.github.io/index.html">Home</a>
                     <a href="https://github.com/HITESH-235">Github</a>
                     <a href="https://www.linkedin.com/in/hitesh235/">Linkedin</a>
                     <a href="mailto:codonstream.72@gmail.com">Mail</a>
