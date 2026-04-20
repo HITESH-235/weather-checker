@@ -26,7 +26,7 @@ https://HITESH-235.github.io/weather-checker
 ## 📺 Project Walkthrough
 
 Watch the platform in action:  
-🎬 **[Project Summary Video]()**
+🎬 **[Project Summary Video](https://drive.google.com/file/d/1slfxgiCXoO2xbDYpMAnYmi-sg1uXKNxD/view?usp=drive_link)**
 
 ## Installation
 
