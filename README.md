@@ -23,6 +23,11 @@ A simple weather application built with **React + Vite** that allows users to se
 
 https://HITESH-235.github.io/weather-checker
 
+## 📺 Project Walkthrough
+
+Watch the platform in action:  
+🎬 **[Project Summary Video]()**
+
 ## Installation
 
 Clone the repository:
